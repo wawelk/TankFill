@@ -1,0 +1,151 @@
+Name: Controller Tags
+Type: FolderType
+Children:
+- Name: BOOL_IN_0
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_0"
+- Name: BOOL_IN_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_1"
+- Name: BOOL_IN_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_2"
+- Name: BOOL_IN_3
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_3"
+- Name: FLOAT_IN_0
+  Id: g=fd8e77b0199bf85352b90ced8ac09a48
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "FLOAT_IN_0"
+- Name: FLOAT_IN_1
+  Id: g=e80ad8a2a467550906ed411ff0e935f0
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "FLOAT_IN_1"
+- Name: FLOAT_IN_2
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "FLOAT_IN_2"
+- Name: BOOL_OUT_0
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_0"
+- Name: BOOL_OUT_1
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_1"
+- Name: BOOL_OUT_2
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_2"
+- Name: FLOAT_OUT_0
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "FLOAT_OUT_0"
+- Name: FLOAT_OUT_1
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "FLOAT_OUT_1"
+- Name: INT_OUT_0
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "INT_OUT_0"
+- Name: INT_OUT_1
+  Type: RAEtherNetIPTag
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "INT_OUT_1"
+- Name: Fill
+  Id: g=d3df7b3777fc0a86e7d5807e47fd30e8
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Fill"
+- Name: Discharge
+  Id: g=a0ac8e0c775072749d5e3f3aeb11050e
+  Type: RAEtherNetIPTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Discharge"
